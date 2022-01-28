@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th generation",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://res-2.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1000,q_auto,w_1000/v1630928826/kgg2bmbmmq9hj5tokpmf.png"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 6",
+            "desc": "Google Pixel phone 6th generation",
+            "price": 699,
+            "color": "#00ac51",
+            "image": "https://res-1.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1600,q_auto,w_1600/v1637157562/o97iswqht9m2szyhdsk1.png"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://res-3.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1600,q_auto,w_1600/v1630929136/jukms7i89jb6eg2tujsf.png"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th generation",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://gmedia.playstation.com/is/image/SIEPDC/playstation-5-with-dualsense-front-product-shot-01-ps5-en-30jul20?$native--t$"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st generation",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://res-3.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1600,q_auto,w_1600/v1638873780/akr72qwm7gz8xfm9oyg1.png"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://res-4.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1600,q_auto,w_1600/v1635416312/ohu8rscade1pzeiy5qgw.png"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy Fold 3",
+            "desc": "Samsung's Fold Phone 3rd Gen",
+            "price": 1299,
+            "color": "#1c1c1c",
+            "image": "https://res-2.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1600,q_auto,w_1600/v1632935105/hyfm3fooysqzlrlzjnhb.png"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy Z Flip 3",
+            "desc": "Samsung's Flip Phone 3rd Gen",
+            "price": 899,
+            "color": "#7c95eb",
+            "image": "https://res-4.cloudinary.com/grover/image/upload/e_trim/c_limit,f_auto,fl_png8.lossy,h_1600,q_auto,w_1600/v1632935901/deyyhqg9w9efglydwil9.webp"
+        }
+    ]
+}
